@@ -1,2 +1,2 @@
 # python
-using Jupyter Notebok , for study purpose 
+using Jupyter anaconda Notebook , for study purpose 
